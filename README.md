@@ -18,7 +18,7 @@
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/realizeit.git
+   git clone https://github.com/ragnesis/RealizeIt.git
 
 
 2. Install dependencies:
@@ -29,13 +29,13 @@
 
 Usage
   Launch the app to open the drawing board.
-  Select pens, adjust size with the slider, and choose elemental brushes.
+  Select pens, adjust the size with the slider, and choose elemental brushes.
   Draw on the board, and see your strokes transform into realistic textures.
   Save your creation by clicking the "Save" button.
 
 Contributing
   If you'd like to contribute to RealizeIt, feel free to fork the repository, make improvements, or suggest new features. Open an issue or create a pull request.
 
-Acknowledgements
+Acknowledgments
   Tkinter for GUI development
   Pillow for image processing and rendering
