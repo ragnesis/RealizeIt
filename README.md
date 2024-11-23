@@ -10,7 +10,7 @@
 - **Save Your Artwork**: Save your drawings and rendered images directly to your system.
 
 ## Requirements
-- Python 3.x
+- Python 3.10
 - Tkinter (for GUI)
 - Pillow (for image handling)
 
